@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parchis Stats</string>
+
+    <string name="string_color">My color:</string>
+    <string name="string_last">Last dice\nroll</string>
+    <string name="string_hotcold">Hot &amp; Cold Numbers</string>
+    <string name="string_dice1">Left Dice</string>
+    <string name="string_dice2">Right Dice</string>
+</resources>
